@@ -4,6 +4,7 @@ import numpy as np
 from pyspark.sql.types import *
 import pyspark.sql.functions as F
 import pickle
+Import os
 
 # create spark session
 [spark, sqlContext] = create_spark_session()

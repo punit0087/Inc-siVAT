@@ -15,7 +15,8 @@ If using inc-VAT/dec-iVAT and inc-iVAT/dec-iVAT, please cite following paper:
 
 Kumar, D., Bezdek, J. C., Rajasegarar, S., Palaniswami, M., Leckie, C., Chan, J., & Gubbi, J. (2016) Adaptive cluster tendency visualization and anomaly detection for streaming data. ACM Transactions on Knowledge Discovery from Data (TKDD), 11(2), 24.
 
-
+you can access the main file to use inc-VAT/dec-iVAT and inc-iVAT/dec-iVAT codes at the following link:
+https://github.com/genuine-dheeraj/VAT_family_of_algorithms/tree/master/inc-VAT_inc-iVAT_dec-VAT_dec-iVAT
 
 
 If using VAT and iVAT please cite following papers.

@@ -7,7 +7,7 @@ Inc-siVAT.main is the main file.
 
 Please cite the following paper when using inc-siVAT code or any of its subrotines.
 
-Rathore, P., Kumar, D., Bezdek, J. C., Rajasegarar, S., Palaniswami, M.(2019). Visual Structure Assessment and Anomaly Detection for High-Velocity Data Streams, under review in IEEE Transactions on Cybernetics. (Please ask the full citation detail of this paper if it is not updated here)
+Rathore, P., Kumar, D., Bezdek, J. C., Rajasegarar, S., Palaniswami, M.(2020). Visual Structure Assessment and Anomaly Detection for High-Velocity Data Streams, Accepted in IEEE Transactions on Cybernetics, 2020. (In Press)
 
 
 
